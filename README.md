@@ -1,4 +1,4 @@
 # Snake
-### Simple snake game with smooth movement
+### A simple snake game with smooth movement
 ___________
 ![](snake.gif)
